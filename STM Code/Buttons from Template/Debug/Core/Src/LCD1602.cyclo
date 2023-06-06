@@ -1,0 +1,8 @@
+LCD1602.c:50:6:delay	2
+LCD1602.c:58:6:send_to_lcd	1
+LCD1602.c:78:6:lcd_send_cmd	1
+LCD1602.c:91:6:lcd_send_data	1
+LCD1602.c:104:6:lcd_clear	1
+LCD1602.c:110:6:lcd_put_cur	3
+LCD1602.c:126:6:lcd_init	1
+LCD1602.c:152:6:lcd_send_string	2
